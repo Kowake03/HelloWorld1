@@ -1,7 +1,7 @@
 If you are looking for a t-shirt, you can send Pull Requests to this repository
 
 # HelloWorld-Hacktoberfest
-Say Hello to the world in whatever language you like
+Say Hello to the world in whatever language you like!
 
 
 # What is Hacktoberfest?
